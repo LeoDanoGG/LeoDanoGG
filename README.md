@@ -12,5 +12,5 @@
 |html, css, php|Webs|
 |SQL, php|Data base, web apps|
 ## Starting with
-- I'm starting to learning Python lenguage <img width="30px" src="python.png" align="center">
-- I'm starting to learning also Swift for iPhone apps <img width="30px" src="apple.png" align="center">
+- I'm starting to learning Python lenguage <img width="30px" src="pythonColor.png" align="center">
+- I'm starting to learning also Swift for iPhone apps <img width="30px" src="appleColor.png" align="center">
