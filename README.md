@@ -1,6 +1,4 @@
 # :space_invader:	Hi everybody, I’m @CyberDano :space_invader:	
-*Student and secondary account. Primary account is <a href="https://github.com/LeoDanoGG" target="_blank">`LeoDanoGG`</a>*
----
 >I'm a multiplatform app developer in process 👨‍🎓 who likes a lot typping code.
 >
 >I would like to make good projects alone or in group.
