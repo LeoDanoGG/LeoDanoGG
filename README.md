@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @LeoDanoGG
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-LeoDanoGG/LeoDanoGG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# :space_invader:	Hi everybody, I’m @CyberDano :space_invader:	
+*Student and secondary account. Primary account is <a href="https://github.com/LeoDanoGG" target="_blank">`LeoDanoGG`</a>*
+---
+>I'm a multiplatform app developer in process 👨‍🎓 who likes a lot typping code.
+>
+>I would like to make good projects alone or in group.
+## Lenguages I ussualy use:
+|Code|Main use|
+|---|---|
+|Java|Android apps|
+|C#|Unity videogames|
+|html, css, php|Webs|
+|SQL, php|Data base, web apps|
+## Starting with
+- I'm starting to learning Python lenguage <img width="30px" src="python.png" align="center">
+- I'm starting to learning also Swift for iPhone apps <img width="30px" src="apple.png" align="center">
