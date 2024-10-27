@@ -19,7 +19,8 @@
     </td>
     <td>
       <!-- Most used chart -->
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDanoGG&layout=compact" />
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDanoGG&layout=compact&v=2"
+ />
     </td>
   </tr>
 </table>
