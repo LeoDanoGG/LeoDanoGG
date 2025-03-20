@@ -11,6 +11,7 @@
       <!-- Lenguajes I know -->
       <table>
         <tr><th>Language</th><th>Primary use</th></tr>
+        <tr><td>Dart</td></td><td>Multi-device apps</td></tr>
         <tr><td>Java</td><td>Android apps</td></tr>
         <tr><td>C#</td><td>Unity videogames</td></tr>
         <tr><td>HTML, CSS, PHP</td><td>Web development</td></tr>
@@ -19,7 +20,7 @@
     </td>
     <td>
       <!-- Most used chart -->
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDanoGG&layout=compact"
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDanoGG&layout=compact&version"
  />
     </td>
   </tr>
