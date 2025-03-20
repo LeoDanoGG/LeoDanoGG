@@ -1,16 +1,24 @@
-# :space_invader:	Hi everybody, it's Dano
-I'm a multiplatform app developer in process 👨‍🎓 who likes a lot typping code.
+# :space_invader:	Hi everybody, it's Dano <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="50px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg" width="50px">
+I'm a multiplatform app developer in process 👨‍🎓 who really enjoys coding.
 
+I am passionate about programming and always eager to learn more about computer science. My innate curiosity led me to wonder how my home router worked, which marked the beginning of my journey into this world. While studying backend and networking to understand how that small device operated, I discovered the vast possibilities hidden within the world of binary code. But I didn’t stop there; I decided to take it a step further and learn how to write my own code, exploring the magic of technological creation
+
+## :dart: Objectives
 I would like to make good projects alone or in group.
+- Work in effective projects.
+  - Develop optimized apps.
+  - Improve existing apps.
+- Explore new technologies.
+- Keep learning everyday.
+- Work with other programmers.
 
-## Languages I use (I started to learn `Python` too <img width="30px" src="pythonColor.png" align="center">)
+## <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Computer_Turned_On.svg" width="20px"/> Languages I use (I started to learn `Python` too <img width="30px" src="pythonColor.png" align="center">)
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <!-- Lenguajes I know -->
-        <table>
+        <table><!-- Lenguajes I know -->
           <tr><th>Language</th><th>Primary use</th></tr>
           <tr><td>Dart</td></td><td>Multi-device apps</td></tr>
           <tr><td>Java, Swift</td><td>Mobile apps</td></tr>
@@ -20,8 +28,7 @@ I would like to make good projects alone or in group.
         </table>     
       </td>
       <td>
-        <!-- Most used chart -->
-        <div>
+        <div><!-- Most used chart -->
           <a href="https://github.com/LeoDanoGG">
             <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDanoGG&layout=donut&langs_count=6&theme=dark"/>
           </a>
@@ -31,7 +38,7 @@ I would like to make good projects alone or in group.
   </table>
 </div>
 
-## Main projects
+## :toolbox: Main projects 
 <div align="center">
   <table>
     <tr>
@@ -46,3 +53,4 @@ I would like to make good projects alone or in group.
     </tr>
   </table>
 </div>
+
