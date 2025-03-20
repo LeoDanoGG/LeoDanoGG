@@ -3,7 +3,7 @@ I'm a multiplatform app developer in process 👨‍🎓 who likes a lot typping
 
 I would like to make good projects alone or in group.
 
-## Languages I use
+## Languages I use (I started to learn `Python` too <img width="30px" src="pythonColor.png" align="center">)
 
 <div align="center">
   <table>
@@ -30,9 +30,6 @@ I would like to make good projects alone or in group.
     </tr>
   </table>
 </div>
-
-## Starting with
-- I'm starting to learning `Python` lenguage <img width="30px" src="pythonColor.png" align="center">
 
 ## Main projects
 <div align="center">
