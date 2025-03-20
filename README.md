@@ -12,7 +12,7 @@
       <table>
         <tr><th>Language</th><th>Primary use</th></tr>
         <tr><td>Dart</td></td><td>Multi-device apps</td></tr>
-        <tr><td>Java</td><td>Android apps</td></tr>
+        <tr><td>Java, Swift</td><td>Mobile apps</td></tr>
         <tr><td>C#</td><td>Unity videogames</td></tr>
         <tr><td>HTML, CSS, PHP</td><td>Web development</td></tr>
         <tr><td>SQL, PHP</td><td>Databases, web apps</td></tr>
@@ -28,4 +28,3 @@
 
 ## Starting with:
 - I'm starting to learning `Python` lenguage <img width="30px" src="pythonColor.png" align="center">
-- I'm starting to learning also `Swift` for iPhone apps <img width="30px" src="appleColor.png" align="center">
