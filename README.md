@@ -12,7 +12,7 @@ I would like to make good projects alone or in group.
 - Keep learning everyday.
 - Work with other programmers.
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Computer_Turned_On.svg" width="20px"/> Languages I use (I started to learn `Python` too <img width="30px" src="pythonColor.png" align="center">)
+## <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Computer_Turned_On.svg" width="20px"/> Languages I use
 
 <div align="center">
   <table>
@@ -38,17 +38,24 @@ I would like to make good projects alone or in group.
   </table>
 </div>
 
+### Starting with:
+- Python <img src="pythonColor.png" width="20px"/> for learn about AI.
+- Kotlin <img src="Kotlin_Icon.png" width="20px"/> for apps in Android with a modern language.
+- Javascript <img src="javascript.png" width="20px"/> for dynamic activities in web.
+
 ## :toolbox: Main projects 
 <div align="center">
   <table>
     <tr>
       <td><p align="center">Video game</p></td><td>&nbsp;<!-- Split -->&nbsp;</td>
-      <td><p align="center">Wiki with an API</p></td>&nbsp;<!-- Split -->&nbsp;</td>
+      <td><p align="center">Wiki with an API</p></td><td>&nbsp;<!-- Split -->&nbsp;</td>
+      <td><p align="center">Room manager</p></td>&nbsp;<!-- Split -->&nbsp;</td>
       <!--<td><p align="center"></p></td>-->
     </tr>
     <tr>
       <td><a href="https://github.com/LeoDanoGG/Wild-hunter"><img src="https://github.com/LeoDanoGG/Wild-hunter/blob/main/Wild_hunter_gameplay.png" width="200px"/></a></td><td>&nbsp;<!-- Split -->&nbsp;</td>
-      <td><a href="https://github.com/LeoDanoGG/ice_and_fire"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Game_of_Thrones_2011_logo.svg/250px-Game_of_Thrones_2011_logo.svg.png" width="200px"/></a></td>&nbsp;<!-- Split -->&nbsp;</td>
+      <td><a href="https://github.com/LeoDanoGG/ice_and_fire"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Game_of_Thrones_2011_logo.svg/250px-Game_of_Thrones_2011_logo.svg.png" width="200px"/></a></td><td>&nbsp;<!-- Split -->&nbsp;</td>
+       <td><a href="https://github.com/LeoDanoGG/RoomManager"><img src="https://icons.veryicon.com/128/System/Flat%20Retro%20Modern/rainbow%20apple%20logo.png" width="100px"/></a></td>&nbsp;<!-- Split -->&nbsp</td>
       <!--<td><a href="#"> <img src="#"/></a></td>-->
     </tr>
   </table>
