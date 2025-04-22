@@ -41,7 +41,7 @@ I would like to make good projects alone or in group.
 ### Starting with:
 - Python <img src="pythonColor.png" width="20px"/> for learn about AI.
 - Kotlin <img src="Kotlin_Icon.png" width="20px"/> for apps in Android with a modern language.
-- Javascript <img src="javascript.png" width="20px"/> for dynamic activities in web.
+- Javascript <img src="javascript.png" width="20px"/> / Typescript <img src="Typescript.png" width="20px"/> for dynamic activities in web.
 
 ## :toolbox: Main projects 
 <div align="center">
