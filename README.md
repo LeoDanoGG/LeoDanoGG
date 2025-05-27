@@ -20,7 +20,7 @@ I would like to make good projects alone or in group.
       <td>
         <table><!-- Lenguajes I know -->
           <tr><th>Language</th><th>Primary use</th></tr>
-          <tr><td>Dart</td></td><td>Multi-device apps</td></tr>
+          <tr><td>Dart</td></td><td>Cross platform apps</td></tr>
           <tr><td>Java, Swift</td><td>Mobile apps</td></tr>
           <tr><td>C#</td><td>Unity videogames</td></tr>
           <tr><td>HTML, CSS, PHP</td><td>Web development</td></tr>
@@ -49,13 +49,15 @@ I would like to make good projects alone or in group.
     <tr>
       <td><p align="center">Video game</p></td><td>&nbsp;<!-- Split -->&nbsp;</td>
       <td><p align="center">Wiki with an API</p></td><td>&nbsp;<!-- Split -->&nbsp;</td>
-      <td><p align="center">Room manager</p></td>&nbsp;<!-- Split -->&nbsp;</td>
+      <td><p align="center">AstroLog</p></td><td>&nbsp;<!-- Split -->&nbsp;</td>
+      <td><p align="center">Room manager</p></td>
       <!--<td><p align="center"></p></td>-->
     </tr>
     <tr>
       <td><a href="https://github.com/LeoDanoGG/Wild-hunter"><img src="https://github.com/LeoDanoGG/Wild-hunter/blob/main/Wild_hunter_gameplay.png" width="200px"/></a></td><td>&nbsp;<!-- Split -->&nbsp;</td>
       <td><a href="https://github.com/LeoDanoGG/ice_and_fire"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Game_of_Thrones_2011_logo.svg/250px-Game_of_Thrones_2011_logo.svg.png" width="200px"/></a></td><td>&nbsp;<!-- Split -->&nbsp;</td>
-       <td><a href="https://github.com/LeoDanoGG/RoomManager"><img src="https://icons.veryicon.com/128/System/Flat%20Retro%20Modern/rainbow%20apple%20logo.png" width="100px"/></a></td>&nbsp;<!-- Split -->&nbsp</td>
+       <td><a href="https://github.com/LeoDanoGG/AstroLog"><img src="https://camo.githubusercontent.com/dd9adeb6d7a4ba4a753c9bda2c95bd81685badbac50bfb9bd0f7aedc06c60bc6/68747470733a2f2f69636f6e732e69636f6e617263686976652e636f6d2f69636f6e732f6d6963726f736f66742f666c75656e7475692d656d6f6a692d33642f3235362f436f6d65742d33642d69636f6e2e706e67" width="100px"/></a></td><td>&nbsp;<!-- Split -->&nbsp</td>
+    <td><a href="https://github.com/LeoDanoGG/RoomManager"><img src="https://icons.veryicon.com/128/System/Flat%20Retro%20Modern/rainbow%20apple%20logo.png" width="100px"/></a></td>
       <!--<td><a href="#"> <img src="#"/></a></td>-->
     </tr>
   </table>
