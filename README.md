@@ -47,7 +47,7 @@ I would like to make good projects alone or in group.
 <div align="center">
   <table>
     <tr>
-      <td><p align="center">Video game</p></td><td>&nbsp;<!-- Split -->&nbsp;</td>
+      <td><p align="center">Wild hunter</p></td><td>&nbsp;<!-- Split -->&nbsp;</td>
       <td><p align="center">Wiki with an API</p></td><td>&nbsp;<!-- Split -->&nbsp;</td>
       <td><p align="center">AstroLog</p></td><td>&nbsp;<!-- Split -->&nbsp;</td>
       <td><p align="center">Room manager</p></td>
