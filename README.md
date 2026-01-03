@@ -27,13 +27,13 @@ I would like to make good projects alone or in group.
           <tr><td>SQL, PHP</td><td>Databases, web apps</td></tr>
         </table>     
       </td>
-      <td>
-        <div><!-- Most used chart -->
-          <a href="https://github.com/LeoDanoGG">
+      <!--<td>
+        <div> Most used chart 
+          <a href="https://github.com/LeoDanoGG">z
             <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDanoGG&layout=donut&langs_count=6&theme=dark"/>
           </a>
         </div>
-      </td>
+      </td>-->
     </tr>
   </table>
 </div>
