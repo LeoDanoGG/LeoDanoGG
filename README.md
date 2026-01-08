@@ -56,7 +56,7 @@ I would like to make good projects alone or in group.
     </tr>
     <tr>
       <td><a href="https://github.com/LeoDanoGG/Wild-hunter"><img src="https://github.com/LeoDanoGG/Wild-hunter/blob/main/Wild_hunter_gameplay.png" width="200px"/></a></td><td>&nbsp;<!-- Split -->&nbsp;</td>
-      <td><a href="https://github.com/LeoDanoGG/ice_and_fire"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Game_of_Thrones_2011_logo.svg/250px-Game_of_Thrones_2011_logo.svg.png" width="200px"/></a></td><td>&nbsp;<!-- Split -->&nbsp;</td>
+      <td><a href="https://github.com/LeoDanoGG/ice_and_fire"><img src="https://freepngimg.com/thumb/game_of_thrones/6-2-game-of-thrones-logo-transparent-thumb.png" width="100px"/></a></td><td>&nbsp;<!-- Split -->&nbsp;</td>
        <td><a href="https://github.com/LeoDanoGG/AstroLog"><img src="https://camo.githubusercontent.com/f701f98a0f6f16605f2171b015bdd8abd2c2b14fee646a3f50a52536a50010d2/68747470733a2f2f69636f6e732e69636f6e617263686976652e636f6d2f69636f6e732f6d6963726f736f66742f666c75656e7475692d656d6f6a692d33642f3235362f436f6d65742d33642d69636f6e2e706e67" width="100px"/></a></td><td>&nbsp;<!-- Split -->&nbsp</td>
     <td><a href="https://github.com/LeoDanoGG/RoomManager"><img src="https://icons.veryicon.com/128/System/Flat%20Retro%20Modern/rainbow%20apple%20logo.png" width="100px"/></a></td>
       <!--<td><a href="#"> <img src="#"/></a></td>-->
