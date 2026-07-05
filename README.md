@@ -44,7 +44,7 @@ I would like to make good projects alone or in group.
 - Go (golang) <img src="Go.png" width="20px"/> for backend and cloud/web proyects.
 - Javascript <img src="javascript.png" width="20px"/> / Typescript <img src="Typescript.png" width="20px"/> for dynamic activities in web.
 
-## :toolbox: Main projects 
+## :toolbox: Main basic projects 
 <div align="center">
   <table>
     <tr>
