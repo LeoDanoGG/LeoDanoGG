@@ -18,56 +18,38 @@ I would like to make good projects alone or in group.
 - Keep learning everyday.
 - Work with other programmers.
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Computer_Turned_On.svg" width="20px"/> Languages I use
-
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <table><!-- Lenguajes I know -->
-          <tr><th>Language</th><th>Primary use</th></tr>
-          <tr><td>Dart</td></td><td>Cross platform apps</td></tr>
-          <tr><td>Java, Swift</td><td>Mobile apps</td></tr>
-          <tr><td>C#</td><td>Unity videogames</td></tr>
-          <tr><td>HTML, CSS, PHP</td><td>Web development</td></tr>
-          <tr><td>SQL, PHP</td><td>Databases, web apps</td></tr>
-        </table>     
-      </td>
-      <!--<td>
-        <div> Most used chart 
-          <a href="https://github.com/LeoDanoGG">z
-            <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDanoGG&layout=donut&langs_count=6&theme=dark"/>
-          </a>
-        </div>
-      </td>-->
-    </tr>
-  </table>
+<table>
+<tr>
+<td valign="top">
+  
+## :desktop_computer: Languages I use
+
+| Language | Primary use |
+|:---|:---|
+| <img src="https://skillicons.dev/icons?i=dart&theme=light" height="40"/> | Cross platform apps |
+| <img src="https://skillicons.dev/icons?i=java,swift&theme=light" height="40"/> | Mobile apps |
+| <img src="https://skillicons.dev/icons?i=cs&theme=light" height="40"/> | Unity videogames |
+| <img src="https://skillicons.dev/icons?i=html,css&theme=light" height="40"/> | Web development |
+| <img src="https://skillicons.dev/icons?i=mysql,php&theme=light" height="40"/> | Databases, web apps |
+
+</td>
+<td valign="top">
+
+## :computer: Starting with:
+| Language | Primary use |
+|:---|:---|
+| <img src="https://skillicons.dev/icons?i=c&theme=light" height="40"/> | Know deep code concepts and memory use |
+| <img src="https://skillicons.dev/icons?i=py&theme=light" height="40"/> | Learn about scripting and AI |
+| <img src="https://skillicons.dev/icons?i=go&theme=light" height="40"/> | Backend and cloud/web projects |
+
+</td>
+</tr>
+</table>
 </div>
 
-### Starting with:
-- C <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" width="20px"/> to know deep code concepts and memory use.
-- Python <img src="pythonColor.png" width="20px"/> for learn about AI.
-- Go (golang) <img src="Go.png" width="20px"/> for backend and cloud/web proyects.
+## :toolbox: Main basic projects (big projects coming soon...)
 
-## :toolbox: Main basic projects (big projects coming soon...) 
-<div align="center">
-  <table>
-    <tr>
-      <td><p align="center">./42init</p></td><td>&nbsp;<!-- Split -->&nbsp;</td>
-      <td><p align="center">Wild hunter</p></td><td>&nbsp;<!-- Split -->&nbsp;</td>
-      <td><p align="center">Wiki with an API</p></td><td>&nbsp;<!-- Split -->&nbsp;</td>
-      <td><p align="center">AstroLog</p></td><td>&nbsp;<!-- Split -->&nbsp;</td>
-      <td><p align="center">Room manager</p></td>
-      <!--<td><p align="center"></p></td>-->
-    </tr>
-    <tr>
-      <td><a href="https://github.com/LeoDanoGG/42Madrid_init"><img src="https://raw.githubusercontent.com/computefoundation/gnu-linux-shell-scripting/images/logo.png" width="200px"/></a></td><td>&nbsp;<!-- Split -->&nbsp;</td>
-      <td><a href="https://github.com/LeoDanoGG/Wild-hunter"><img src="https://github.com/LeoDanoGG/Wild-hunter/blob/main/Wild_hunter_gameplay.png" width="200px"/></a></td><td>&nbsp;<!-- Split -->&nbsp;</td>
-      <td><a href="https://github.com/LeoDanoGG/ice_and_fire"><img src="https://www.pngarts.com/files/17/Game-Of-Thrones-Logo-PNG-Free-Download.png" width="150px"/></a></td><td>&nbsp;<!-- Split -->&nbsp;</td>
-       <td><a href="https://github.com/LeoDanoGG/AstroLog"><img src="https://camo.githubusercontent.com/f701f98a0f6f16605f2171b015bdd8abd2c2b14fee646a3f50a52536a50010d2/68747470733a2f2f69636f6e732e69636f6e617263686976652e636f6d2f69636f6e732f6d6963726f736f66742f666c75656e7475692d656d6f6a692d33642f3235362f436f6d65742d33642d69636f6e2e706e67" width="100px"/></a></td><td>&nbsp;<!-- Split -->&nbsp;</td>
-    <td><a href="https://github.com/LeoDanoGG/RoomManager"><img src="https://icons.veryicon.com/128/System/Flat%20Retro%20Modern/rainbow%20apple%20logo.png" width="100px"/></a></td>
-      <!--<td><a href="#"> <img src="#"/></a></td>-->
-    </tr>
-  </table>
-</div>
-
+| [./42init](https://github.com/LeoDanoGG/42Madrid_init) | [LIBFT](https://github.com/LeoDanoGG/LIBFT) | [Wild hunter](https://github.com/LeoDanoGG/Wild-hunter) | [Wiki with an API](https://github.com/LeoDanoGG/ice_and_fire) | [AstroLog](https://github.com/LeoDanoGG/AstroLog) | [Room manager](https://github.com/LeoDanoGG/RoomManager) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <a href="https://github.com/LeoDanoGG/42Madrid_init"><img src="https://raw.githubusercontent.com/computefoundation/gnu-linux-shell-scripting/images/logo.png" width="150"/></a> | <a href="https://github.com/LeoDanoGG/LIBFT"><img src="https://github.com/LeoDanoGG/LIBFT/blob/main/lib.png?raw=true" width="150"/></a> | <a href="https://github.com/LeoDanoGG/Wild-hunter"><img src="https://github.com/LeoDanoGG/Wild-hunter/blob/main/Wild_hunter_gameplay.png?raw=true" width="150"/></a> | <a href="https://github.com/LeoDanoGG/ice_and_fire"><img src="https://www.pngarts.com/files/17/Game-Of-Thrones-Logo-PNG-Free-Download.png" width="150"/></a> | <a href="https://github.com/LeoDanoGG/AstroLog"><img src="https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-3d/256/Comet-3d-icon.png" width="100"/></a> | <a href="https://github.com/LeoDanoGG/RoomManager"><img src="https://icons.veryicon.com/128/System/Flat%20Retro%20Modern/rainbow%20apple%20logo.png" width="100"/></a> |
