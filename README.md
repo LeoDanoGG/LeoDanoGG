@@ -45,6 +45,7 @@ I am passionate about programming and always eager to learn more about computer 
 | <img src="https://skillicons.dev/icons?i=py&theme=light" height="40"/> | Learn about scripting and AI |
 | <img src="https://skillicons.dev/icons?i=go&theme=light" height="40"/> | Backend and cloud/web projects |
 | <img src="https://skillicons.dev/icons?i=kotlin&theme=light" height="40"/> | Android apps |
+| <img src="https://skillicons.dev/icons?i=js,ts&theme=light" height="40"/> | Better web development |
 
 </td>
 </tr>
