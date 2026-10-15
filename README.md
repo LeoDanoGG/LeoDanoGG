@@ -9,17 +9,19 @@ I am passionate about programming and always eager to learn more about computer 
 - 🛠️ **Focus**: Working on core C programming, Shell scripting, and building automated tools for my workflow.
 - ⚡ **Fun Fact**: Building my own automation tools to streamline my daily 42 project setup!
 
-## :dart: Objectives
-I would like to make good projects alone or in group.
-- Work in effective projects.
-  - Develop optimized apps.
-  - Improve existing apps.
-- Explore new technologies.
-- Keep learning everyday.
-- Work with other programmers.
+---
 
 <div align="center">
 <table>
+<tr>
+<td colspan="2">
+
+| Tools | <img src="https://skillicons.dev/icons?i=vscode,git,linux,androidstudio,apple,unity,wordpress,flutter,docker,figma,bash,md,sketchup&theme=light"/> |
+| :--- | :--- |
+  
+</td>
+</tr>
+
 <tr>
 <td valign="top">
   
@@ -42,6 +44,7 @@ I would like to make good projects alone or in group.
 | <img src="https://skillicons.dev/icons?i=c&theme=light" height="40"/> | Know deep code concepts and memory use |
 | <img src="https://skillicons.dev/icons?i=py&theme=light" height="40"/> | Learn about scripting and AI |
 | <img src="https://skillicons.dev/icons?i=go&theme=light" height="40"/> | Backend and cloud/web projects |
+| <img src="https://skillicons.dev/icons?i=kotlin&theme=light" height="40"/> | Android apps |
 
 </td>
 </tr>
@@ -50,6 +53,12 @@ I would like to make good projects alone or in group.
 
 ## :toolbox: Main basic projects (big projects coming soon...)
 
-| [./42init](https://github.com/LeoDanoGG/42Madrid_init) | [LIBFT](https://github.com/LeoDanoGG/LIBFT) | [Wild hunter](https://github.com/LeoDanoGG/Wild-hunter) | [Wiki with an API](https://github.com/LeoDanoGG/ice_and_fire) | [AstroLog](https://github.com/LeoDanoGG/AstroLog) | [Room manager](https://github.com/LeoDanoGG/RoomManager) |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <a href="https://github.com/LeoDanoGG/42Madrid_init"><img src="https://skillicons.dev/icons?i=bash" width="150"/></a> | <a href="https://github.com/LeoDanoGG/LIBFT"><img src="https://github.com/LeoDanoGG/LIBFT/blob/main/lib.png?raw=true" width="150"/></a> | <a href="https://github.com/LeoDanoGG/Wild-hunter"><img src="https://github.com/LeoDanoGG/Wild-hunter/blob/main/Wild_hunter_gameplay.png?raw=true" width="150"/></a> | <a href="https://github.com/LeoDanoGG/ice_and_fire"><img src="https://www.pngarts.com/files/17/Game-Of-Thrones-Logo-PNG-Free-Download.png" width="150"/></a> | <a href="https://github.com/LeoDanoGG/AstroLog"><img src="https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-3d/256/Comet-3d-icon.png" width="100"/></a> | <a href="https://github.com/LeoDanoGG/RoomManager"><img src="https://icons.veryicon.com/128/System/Flat%20Retro%20Modern/rainbow%20apple%20logo.png" width="100"/></a> |
+<div align="center">
+
+| [./42init](https://github.com/LeoDanoGG/42Madrid_init) | [LIBFT](https://github.com/LeoDanoGG/LIBFT) | [Wild hunter](https://github.com/LeoDanoGG/Wild-hunter) |
+|:---:|:---:|:---:|
+| <a href="https://github.com/LeoDanoGG/42Madrid_init"><img src="https://skillicons.dev/icons?i=bash" width="150"/></a> | <a href="https://github.com/LeoDanoGG/LIBFT"><img src="https://github.com/LeoDanoGG/LIBFT/blob/main/lib.png?raw=true" width="150"/></a> | <a href="https://github.com/LeoDanoGG/Wild-hunter"><img src="https://github.com/LeoDanoGG/Wild-hunter/blob/main/Wild_hunter_gameplay.png?raw=true" width="150"/></a> |
+| [Wiki with an API](https://github.com/LeoDanoGG/ice_and_fire) | [AstroLog](https://github.com/LeoDanoGG/AstroLog) | [Room manager](https://github.com/LeoDanoGG/RoomManager) |
+|  <a href="https://github.com/LeoDanoGG/ice_and_fire"><img src="https://www.pngarts.com/files/17/Game-Of-Thrones-Logo-PNG-Free-Download.png" width="150"/></a> | <a href="https://github.com/LeoDanoGG/AstroLog"><img src="https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-3d/256/Comet-3d-icon.png" width="100"/></a> | <a href="https://github.com/LeoDanoGG/RoomManager"><img src="https://skillicons.dev/icons?i=apple" width="150"/></a> |
+
+</div>
