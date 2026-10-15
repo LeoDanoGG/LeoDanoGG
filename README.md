@@ -17,8 +17,8 @@ I am passionate about programming and always eager to learn more about computer 
 <tr>
 <td colspan="2">
 
-| Tools | <img src="https://skillicons.dev/icons?i=vscode,git,linux,androidstudio,apple,unity,wordpress,flutter,docker,figma,bash,md,sketchup&theme=light"/> |
-| :--- | :--- |
+| Tools  | <img src="https://skillicons.dev/icons?i=vscode,git,linux,androidstudio,apple,unity,wordpress,flutter,docker,figma,bash,md,sketchup&theme=light"/> |
+| -----  | ---------------------------------------------------------------------------------------------------------------------------------------------------|
   
 </td>
 </tr>
@@ -28,25 +28,25 @@ I am passionate about programming and always eager to learn more about computer 
   
 ## :desktop_computer: Languages I use
 
-| Language | Primary use |
-|:---|:---|
-| <img src="https://skillicons.dev/icons?i=dart&theme=light" height="40"/> | Cross platform apps |
-| <img src="https://skillicons.dev/icons?i=java,swift&theme=light" height="40"/> | Mobile apps |
-| <img src="https://skillicons.dev/icons?i=cs&theme=light" height="40"/> | Unity videogames |
-| <img src="https://skillicons.dev/icons?i=html,css&theme=light" height="40"/> | Web development |
-| <img src="https://skillicons.dev/icons?i=mysql,php&theme=light" height="40"/> | Databases, web apps |
+| Language                                                                        | Primary use          |
+| ------------------------------------------------------------------------------- | -------------------- |
+| <img src="https://skillicons.dev/icons?i=dart&theme=light" height="40"/>        | Cross platform apps  |
+| <img src="https://skillicons.dev/icons?i=java,swift&theme=light" height="40"/>  | Mobile apps          |
+| <img src="https://skillicons.dev/icons?i=cs&theme=light" height="40"/>          | Unity videogames     |
+| <img src="https://skillicons.dev/icons?i=html,css&theme=light" height="40"/>    | Web development      |
+| <img src="https://skillicons.dev/icons?i=mysql,php&theme=light" height="40"/>   | Databases, web apps  |
 
 </td>
 <td valign="top">
 
 ## :computer: Starting with:
-| Language | Primary use |
-|:---|:---|
-| <img src="https://skillicons.dev/icons?i=c&theme=light" height="40"/> | Know deep code concepts and memory use |
-| <img src="https://skillicons.dev/icons?i=py&theme=light" height="40"/> | Learn about scripting and AI |
-| <img src="https://skillicons.dev/icons?i=go&theme=light" height="40"/> | Backend and cloud/web projects |
-| <img src="https://skillicons.dev/icons?i=kotlin&theme=light" height="40"/> | Android apps |
-| <img src="https://skillicons.dev/icons?i=js,ts&theme=light" height="40"/> | Better web development |
+| Language                                                                   | Primary use                            |
+| -------------------------------------------------------------------------- | -------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=c&theme=light" height="40"/>      | Know deep code concepts and memory use |
+| <img src="https://skillicons.dev/icons?i=py&theme=light" height="40"/>     | Learn about scripting and AI           |
+| <img src="https://skillicons.dev/icons?i=go&theme=light" height="40"/>     | Backend and cloud/web projects         |
+| <img src="https://skillicons.dev/icons?i=kotlin&theme=light" height="40"/> | Android apps                           |
+| <img src="https://skillicons.dev/icons?i=js,ts&theme=light" height="40"/>  | Better web development                 |
 
 </td>
 </tr>
@@ -57,8 +57,8 @@ I am passionate about programming and always eager to learn more about computer 
 
 <div align="center">
 
-| [./42init](https://github.com/LeoDanoGG/42Madrid_init) | [LIBFT](https://github.com/LeoDanoGG/LIBFT) | [Wild hunter](https://github.com/LeoDanoGG/Wild-hunter) |
-|:---:|:---:|:---:|
+| [$>./42init](https://github.com/LeoDanoGG/42Madrid_init) | [LIBFT](https://github.com/LeoDanoGG/LIBFT) | [Wild hunter](https://github.com/LeoDanoGG/Wild-hunter) |
+| :------------------------------------------------------: | :-------------------------------------------: | :-------------------------------------------------------: |
 | <a href="https://github.com/LeoDanoGG/42Madrid_init"><img src="https://skillicons.dev/icons?i=bash" width="150"/></a> | <a href="https://github.com/LeoDanoGG/LIBFT"><img src="https://github.com/LeoDanoGG/LIBFT/blob/main/lib.png?raw=true" width="150"/></a> | <a href="https://github.com/LeoDanoGG/Wild-hunter"><img src="https://github.com/LeoDanoGG/Wild-hunter/blob/main/Wild_hunter_gameplay.png?raw=true" width="150"/></a> |
 | [Wiki with an API](https://github.com/LeoDanoGG/ice_and_fire) | [AstroLog](https://github.com/LeoDanoGG/AstroLog) | [Room manager](https://github.com/LeoDanoGG/RoomManager) |
 |  <a href="https://github.com/LeoDanoGG/ice_and_fire"><img src="https://www.pngarts.com/files/17/Game-Of-Thrones-Logo-PNG-Free-Download.png" width="150"/></a> | <a href="https://github.com/LeoDanoGG/AstroLog"><img src="https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-3d/256/Comet-3d-icon.png" width="100"/></a> | <a href="https://github.com/LeoDanoGG/RoomManager"><img src="https://skillicons.dev/icons?i=apple" width="150"/></a> |
