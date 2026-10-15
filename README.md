@@ -1,5 +1,6 @@
-# :space_invader:	Hi everybody, it's Dano <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="50px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg" width="50px">
-I'm a cross platform app developer 👨‍🎓 who really enjoys coding.
+# Hi everybody, it's Dano <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="50px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg" width="50px">	<a href="https://linkedin.com/in/leonid-gómez" title="Go to my profile"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a> 
+
+I'm a cross platform app developer 👨‍🎓 who really enjoys coding. 
 
 ## 🚀 About Me
 
