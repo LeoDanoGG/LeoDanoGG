@@ -1,4 +1,4 @@
-# Hi everybody, it's Dano <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="50px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg" width="50px">	<a href="https://linkedin.com/in/leonid-gómez" title="Go to my profile"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+# Hi everybody, it's Dano <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="50px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg" width="50px">	<a href="https://linkedin.com/in/leonid-gómez" target="_blank" title="Go to my profile"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
 
 <img src="banner.png" width="auto"/>
 
