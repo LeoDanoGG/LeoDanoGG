@@ -1,8 +1,10 @@
-# Hi everybody, it's Dano <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="50px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg" width="50px">	<a href="https://linkedin.com/in/leonid-gómez" title="Go to my profile"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a> 
+# Hi everybody, it's Dano <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="50px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg" width="50px">	<a href="https://linkedin.com/in/leonid-gómez" title="Go to my profile"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
 
-I'm a cross platform app developer 👨‍🎓 who really enjoys coding. 
+<img src="banner.png" width="auto"/>
 
 ## 🚀 About Me
+
+I'm a cross platform app developer 👨‍🎓 who really enjoys coding.
 
 I am passionate about programming and always eager to learn more about computer science. My innate curiosity led me to wonder how my home router worked, which marked the beginning of my journey into this world. While studying backend and networking to understand how that small device operated, I discovered the vast possibilities hidden within the world of binary code. But I didn’t stop there; I decided to take it a step further and learn how to write my own code, exploring the magic of technological creation
 
