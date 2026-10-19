@@ -59,9 +59,9 @@ I am passionate about programming and always eager to learn more about computer 
 
 <div align="center">
 
-| [$>./42init](https://github.com/LeoDanoGG/42Madrid_init) | [LIBFT](https://github.com/LeoDanoGG/LIBFT) | [Wild hunter](https://github.com/LeoDanoGG/Wild-hunter) |
+| [$>./42init](https://github.com/LeoDanoGG/42init) | [LIBFT](https://github.com/LeoDanoGG/LIBFT) | [Wild hunter](https://github.com/LeoDanoGG/Wild-hunter) |
 | :------------------------------------------------------: | :-------------------------------------------: | :-------------------------------------------------------: |
-| <a href="https://github.com/LeoDanoGG/42Madrid_init"><img src="https://skillicons.dev/icons?i=bash" width="150"/></a> | <a href="https://github.com/LeoDanoGG/LIBFT"><img src="https://github.com/LeoDanoGG/LIBFT/blob/main/lib.png?raw=true" width="150"/></a> | <a href="https://github.com/LeoDanoGG/Wild-hunter"><img src="https://github.com/LeoDanoGG/Wild-hunter/blob/main/Wild_hunter_gameplay.png?raw=true" width="150"/></a> |
+| <a href="https://github.com/LeoDanoGG/42init"><img src="https://skillicons.dev/icons?i=bash" width="150"/></a> | <a href="https://github.com/LeoDanoGG/LIBFT"><img src="https://github.com/LeoDanoGG/LIBFT/blob/main/lib.png?raw=true" width="150"/></a> | <a href="https://github.com/LeoDanoGG/Wild-hunter"><img src="https://github.com/LeoDanoGG/Wild-hunter/blob/main/Wild_hunter_gameplay.png?raw=true" width="150"/></a> |
 | [Ice & Fire Wiki](https://github.com/LeoDanoGG/ice_and_fire) | [AstroLog](https://github.com/LeoDanoGG/AstroLog) | [Room manager](https://github.com/LeoDanoGG/RoomManager) |
 |  <a href="https://github.com/LeoDanoGG/ice_and_fire"><img src="https://www.pngarts.com/files/17/Game-Of-Thrones-Logo-PNG-Free-Download.png" width="150"/></a> | <a href="https://github.com/LeoDanoGG/AstroLog"><img src="https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-3d/256/Comet-3d-icon.png" width="100"/></a> | <a href="https://github.com/LeoDanoGG/RoomManager"><img src="https://skillicons.dev/icons?i=apple" width="150"/></a> |
 
