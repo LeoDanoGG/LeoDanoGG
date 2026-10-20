@@ -8,25 +8,24 @@ I'm a cross platform app developer 👨‍🎓 who really enjoys coding.
 
 I am passionate about programming and always eager to learn more about computer science. My innate curiosity led me to wonder how my home router worked, which marked the beginning of my journey into this world. While studying backend and networking to understand how that small device operated, I discovered the vast possibilities hidden within the world of binary code. But I didn’t stop there; I decided to take it a step further and learn how to write my own code, exploring the magic of technological creation
 
-- 🎓 **42 Madrid**: Currently studying at 42 Madrid, learning C/C++, system programming, software architecture and more.
-- 🛠️ **Focus**: Working on core C programming, Shell scripting, and building automated tools for my workflow.
-- ⚡ **Fun Fact**: Building my own automation tools to streamline my daily 42 project setup!
+ - 🎓 **42 Madrid**: Currently studying at 42 Madrid, learning C/Python, system programming, software architecture and more.
+ - 🛠️ **Focus**: Working on core C programming, Shell scripting, and building automated tools for my workflow.
+ - ⚡ **Fun Fact**: Building my own automation tools to streamline my daily 42 project setup!
 
 ---
 
 <div align="center">
 <table>
 <tr>
-<td colspan="2">
+<td colspan="2" align="center">
 
-| TOOLS  | <img src="https://skillicons.dev/icons?i=vscode,git,linux,androidstudio,apple,unity,wordpress,flutter,docker,figma,bash,md,sketchup&theme=light"/> |
-| -----  | ---------------------------------------------------------------------------------------------------------------------------------------------------|
+<img src="https://skillicons.dev/icons?i=vscode,git,linux,androidstudio,apple,unity,wordpress,flutter,raspberrypi,docker,figma,bash,md,sketchup&theme=light"/>
   
 </td>
 </tr>
 
 <tr>
-<td valign="top">
+<td valign="top" align="center">
   
 ## :desktop_computer: Languages I use
 
@@ -39,7 +38,7 @@ I am passionate about programming and always eager to learn more about computer 
 | <img src="https://skillicons.dev/icons?i=mysql,php&theme=light" height="40"/>   | Databases, web apps  |
 
 </td>
-<td valign="top">
+<td valign="top" align="center">
 
 ## :computer: Starting with...
 | Language                                                                   | Primary use                            |
@@ -59,7 +58,7 @@ I am passionate about programming and always eager to learn more about computer 
 
 <div align="center">
 
-| [$>./42init](https://github.com/LeoDanoGG/42init) | [LIBFT](https://github.com/LeoDanoGG/LIBFT) | [Get_Next_Line](https://github.com/LeoDanoGG/GNL) | [Printf](https://github.com/LeoDanoGG/PRINTF) |
+| [$>./42init](https://github.com/LeoDanoGG/42init) | [LIBFT](https://github.com/LeoDanoGG/LIBFT) | [Get_Next_Line](https://github.com/LeoDanoGG/GNL) | [Printf](https://github.com/LeoDanoGG/PRINTF) | 
 | :------------------------------------------------------: | :-------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------: |
 | <a href="https://github.com/LeoDanoGG/42init"><img src="https://skillicons.dev/icons?i=bash" width="150"/></a> | <a href="https://github.com/LeoDanoGG/LIBFT"><img src="https://github.com/LeoDanoGG/LIBFT/blob/main/lib.png" width="150"/></a> | <a href="https://github.com/LeoDanoGG/GNL"><img src="https://skillicons.dev/icons?i=c" width="150"/></a> | <a href="https://github.com/LeoDanoGG/PRINTF"><img src="https://skillicons.dev/icons?i=c" width="150"/></a> |
 | [Wild hunter](https://github.com/LeoDanoGG/Wild-hunter) | [Ice & Fire Wiki](https://github.com/LeoDanoGG/ice_and_fire) | [AstroLog](https://github.com/LeoDanoGG/AstroLog) | [Room manager](https://github.com/LeoDanoGG/RoomManager) |
