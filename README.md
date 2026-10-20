@@ -41,7 +41,7 @@ I am passionate about programming and always eager to learn more about computer 
 </td>
 <td valign="top">
 
-## :computer: Starting with
+## :computer: Starting with...
 | Language                                                                   | Primary use                            |
 | -------------------------------------------------------------------------- | -------------------------------------- |
 | <img src="https://skillicons.dev/icons?i=c&theme=light" height="40"/>      | Know low level code and memory use     |
@@ -55,7 +55,7 @@ I am passionate about programming and always eager to learn more about computer 
 </table>
 </div>
 
-## :toolbox: Main basic projects (big projects coming soon...)
+## :toolbox: Main basic projects index
 
 <div align="center">
 
