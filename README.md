@@ -1,8 +1,8 @@
 # Hi everybody, it's Dano 🇪🇸/🇷🇺
 
-<img src="banner.png"/>
-
-</details>
+<p align="center">
+  <img src="banner.png" alt="Dano Banner"/>
+</p>
 
 ## 🚀 About Me
 
@@ -10,7 +10,7 @@ I'm a cross platform app developer 👨‍🎓 who really enjoys coding.
 
 I am passionate about programming and always eager to learn more about computer science. My innate curiosity led me to wonder how my home router worked, which marked the beginning of my journey into this world. But I didn’t stop there; I decided to take it a step further and learn how to write my own code, exploring the magic of technological creation
 
- - 📜 **Technical Background**: Certified as a cross development  and as microcomputer systems and networks .
+ - 📜 **Technical Background**: Certified as a cross development and as microcomputer systems and networks .
  - 🎓 **42 Madrid**: Currently studying at 42 Madrid, learning `C`/`Python`, system programming, software architecture and more.
  - 🛠️ **Focus**: Working on core `C` programming, Shell scripting, and building automated tools for my workflow.
 
@@ -21,7 +21,7 @@ I am passionate about programming and always eager to learn more about computer 
 <tr>
 <td colspan="2" align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,linux,androidstudio,apple,unity,wordpress,flutter,raspberrypi,docker,figma,bash,md,sketchup&theme=light"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,linux,androidstudio,apple,unity,wordpress,flutter,raspberrypi,docker,figma,bash,md,sketchup"/>
   
 </td>
 </tr>
@@ -33,11 +33,11 @@ I am passionate about programming and always eager to learn more about computer 
 
 | Language                                                                        | Primary use          |
 | ------------------------------------------------------------------------------- | -------------------- |
-| <img src="https://skillicons.dev/icons?i=dart&theme=light" height="40"/>        | Cross platform apps  |
-| <img src="https://skillicons.dev/icons?i=java,swift&theme=light" height="40"/>  | Mobile apps          |
-| <img src="https://skillicons.dev/icons?i=cs&theme=light" height="40"/>          | Unity videogames     |
-| <img src="https://skillicons.dev/icons?i=html,css&theme=light" height="40"/>    | Web development      |
-| <img src="https://skillicons.dev/icons?i=mysql,php&theme=light" height="40"/>   | Databases, web apps  |
+| <img src="https://skillicons.dev/icons?i=dart" height="40"/>        | Cross platform apps  |
+| <img src="https://skillicons.dev/icons?i=java,swift" height="40"/>  | Mobile apps          |
+| <img src="https://skillicons.dev/icons?i=cs" height="40"/>          | Unity videogames     |
+| <img src="https://skillicons.dev/icons?i=html,css" height="40"/>    | Web development      |
+| <img src="https://skillicons.dev/icons?i=mysql,php" height="40"/>   | Databases, web apps  |
 
 </td>
 <td valign="top" align="center">
@@ -45,11 +45,11 @@ I am passionate about programming and always eager to learn more about computer 
 ## 💻 Starting with...
 | Language                                                                   | Primary use                            |
 | -------------------------------------------------------------------------- | -------------------------------------- |
-| <img src="https://skillicons.dev/icons?i=c&theme=light" height="40"/>      | Know low level code and memory use     |
-| <img src="https://skillicons.dev/icons?i=py&theme=light" height="40"/>     | Learn about scripting and AI           |
-| <img src="https://skillicons.dev/icons?i=go&theme=light" height="40"/>     | Backend and cloud/web projects         |
-| <img src="https://skillicons.dev/icons?i=kotlin&theme=light" height="40"/> | Android apps                           |
-| <img src="https://skillicons.dev/icons?i=js,ts&theme=light" height="40"/>  | Better web development                 |
+| <img src="https://skillicons.dev/icons?i=c" height="40"/>      | Know low level code and memory use     |
+| <img src="https://skillicons.dev/icons?i=py" height="40"/>     | Learn about scripting and AI           |
+| <img src="https://skillicons.dev/icons?i=go" height="40"/>     | Backend and cloud/web projects         |
+| <img src="https://skillicons.dev/icons?i=kotlin" height="40"/> | Android apps                           |
+| <img src="https://skillicons.dev/icons?i=js,ts" height="40"/>  | Better web development                 |
 
 </td>
 </tr>
