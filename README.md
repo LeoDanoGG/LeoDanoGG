@@ -30,7 +30,7 @@ I am passionate about programming and always eager to learn more about computer 
 <tr>
 <td valign="top" align="center">
   
-## :desktop_computer: Languages I use
+## 🖥️ Languages I use
 
 | Language                                                                        | Primary use          |
 | ------------------------------------------------------------------------------- | -------------------- |
@@ -43,7 +43,7 @@ I am passionate about programming and always eager to learn more about computer 
 </td>
 <td valign="top" align="center">
 
-## :computer: Starting with...
+## 💻 Starting with...
 | Language                                                                   | Primary use                            |
 | -------------------------------------------------------------------------- | -------------------------------------- |
 | <img src="https://skillicons.dev/icons?i=c&theme=light" height="40"/>      | Know low level code and memory use     |
