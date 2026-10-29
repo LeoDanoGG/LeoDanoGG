@@ -1,6 +1,9 @@
-# Hi everybody, it's Dano <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="50px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg" width="50px">	<a href="https://linkedin.com/in/leonid-gómez" target="_blank" title="Go to my profile"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+<details open>
+<summary><h1>Hi everybody, it's Dano <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="50px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg" width="50px">	<a href="https://linkedin.com/in/leonid-gómez" target="_blank" title="Go to my profile"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a></h1></summary>
 
 <img src="banner.png" width="auto"/>
+
+</details>
 
 ## 🚀 About Me
 
@@ -58,7 +61,7 @@ I am passionate about programming and always eager to learn more about computer 
 
 <div align="center">
 
-| [$>Genesis](https://github.com/LeoDanoGG/Genesis) | [LIBFT](https://github.com/LeoDanoGG/LIBFT) | [Get_Next_Line](https://github.com/LeoDanoGG/GNL) | [Printf](https://github.com/LeoDanoGG/PRINTF) | 
+| [Genesis](https://github.com/LeoDanoGG/Genesis) | [LIBFT](https://github.com/LeoDanoGG/LIBFT) | [Get_Next_Line](https://github.com/LeoDanoGG/GNL) | [Printf](https://github.com/LeoDanoGG/PRINTF) | 
 | :------------------------------------------------------: | :-------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------: |
 | <a href="https://github.com/LeoDanoGG/Genesis"><img src="https://skillicons.dev/icons?i=bash" width="150"/></a> | <a href="https://github.com/LeoDanoGG/LIBFT"><img src="https://github.com/LeoDanoGG/LIBFT/blob/main/lib.png" width="150"/></a> | <a href="https://github.com/LeoDanoGG/GNL"><img src="https://skillicons.dev/icons?i=c" width="150"/></a> | <a href="https://github.com/LeoDanoGG/PRINTF"><img src="https://skillicons.dev/icons?i=c" width="150"/></a> |
 | [Wild hunter](https://github.com/LeoDanoGG/Wild-hunter) | [Ice & Fire Wiki](https://github.com/LeoDanoGG/ice_and_fire) | [AstroLog](https://github.com/LeoDanoGG/AstroLog) | [Room manager](https://github.com/LeoDanoGG/RoomManager) |
