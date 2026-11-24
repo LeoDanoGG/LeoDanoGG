@@ -62,9 +62,9 @@ I am passionate about programming and always eager to learn more about computer 
 
 ### `C` proyects
 
-| [Libft](https://github.com/LeoDanoGG/libft) | [Get_Next_Line](https://github.com/LeoDanoGG/get-next-line) | [Printf](https://github.com/LeoDanoGG/printf) | [Push_swap](https://github.com/LeoDanoGG/push-swap) |
-| :------------------------------------------------------: | :-------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------: |
-| <a href="https://github.com/LeoDanoGG/libft"><img src="https://github.com/LeoDanoGG/LIBFT/blob/main/lib.png" width="150" min-width="100" /></a> | <a href="https://github.com/LeoDanoGG/get-next-line"><img src="https://skillicons.dev/icons?i=c" width="150" min-width="100" /></a> | <a href="https://github.com/LeoDanoGG/printf"><img src="https://skillicons.dev/icons?i=c" width="150" min-width="100" /></a> | <a href="https://github.com/LeoDanoGG/push-swap"><img src="https://skillicons.dev/icons?i=c" width="150" min-width="100" /></a> |
+| [Libft](https://github.com/LeoDanoGG/libft) | [Get_Next_Line](https://github.com/LeoDanoGG/get-next-line) | [Printf](https://github.com/LeoDanoGG/printf) | [Push_swap](https://github.com/LeoDanoGG/push-swap) | [C exam](https://github.com/LeoDanoGG/c-exam) |
+| :------------------------------------------------------: | :-------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+| <a href="https://github.com/LeoDanoGG/libft"><img src="https://github.com/LeoDanoGG/LIBFT/blob/main/lib.png" width="150" min-width="100" /></a> | <a href="https://github.com/LeoDanoGG/get-next-line"><img src="https://skillicons.dev/icons?i=c" width="150" min-width="100" /></a> | <a href="https://github.com/LeoDanoGG/printf"><img src="https://skillicons.dev/icons?i=c" width="150" min-width="100" /></a> | <a href="https://github.com/LeoDanoGG/push-swap"><img src="https://skillicons.dev/icons?i=c" width="150" min-width="100" /></a> |  <a href="https://github.com/LeoDanoGG/c-exam"><img src="https://skillicons.dev/icons?i=c" width="150" min-width="100" /></a> |
 
 ### Other proyects
 
